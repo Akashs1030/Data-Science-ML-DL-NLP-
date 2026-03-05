@@ -1,1 +1,12 @@
-# Data-Science-ML-DL-NLP-
+1. [Basics of Python](1.%20Basics%20of%20Python.ipynb)  
+2. [Data Structures & Functions](2.%20Data%20Structures,FUNCs.ipynb)  
+3. [Basic Statistics - 1](3.%20Basic%20Stats-1.ipynb)  
+4. [Basic Statistics - 2](4.%20Basic%20Stats-2.ipynb)  
+5. [Exploratory Data Analysis (EDA)](5.%20EDA.ipynb)  
+6. [Hypothesis Testing](6.%20Hypothesis%20Testing.ipynb)  
+7. [Multiple Linear Regression (MLR)](7.%20MLR.ipynb)  
+8. [Supply Chain Management (SCM)](10.%20SCM.ipynb)  
+9. [Decision Tree](11.%20Decision%20tree.ipynb)  
+10. [Random Forest](12.%20Random%20forest.ipynb)  
+11. [LightGBM & XGBoost](13.%20LGBM%20and%20XGBM.ipynb)  
+
